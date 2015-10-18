@@ -30,3 +30,17 @@
 
 # Debug files
 *.dSYM/
+
+# MSVC
+*.vcxproj
+*.vcxproj.filters
+*.opensdf
+*.sdf
+*.sln
+Win32/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+sdl2_image_test.dir/
