@@ -44,3 +44,8 @@ CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
 sdl2_image_test.dir/
+
+# OS X
+CMakeScripts/
+Debug/
+*.xcodeproj
